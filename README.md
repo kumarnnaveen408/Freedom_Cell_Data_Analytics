@@ -62,6 +62,13 @@ Dataset characteristics
 - The specific day of the week is less important than environmental factors. The model suggests that any day-to-day fluctuation is likely driven more by the weather on that day than by the day's name itself.
 
 # 3. Sales Forecasting
+Now, FreeCell has understood the market and was able to successfully acquire customers by launching various SIM registration campaigns across the country. The next step for the company is to understand how much sales it would be able to generate given that the company is new to the market. This is an important step for any company looking for a new establishment in a new country. Since it is new to the market, it needs to understand the revenue that can be generated in the next six months so that it can plan its budget and accordingly look for investments.
 
+- <a href="https://github.com/kumarnnaveen408/FreeCell_Data_Analytics/blob/main/Forecasting_sales.xlsx">Sales_Data<a/>
 
+- Use Excel to forecast the sales for the next six months. Create a forecast graph showing the upper and lower confidence bounds.
+- Specify the average of the six months' upper and lower confidence bounds below the chart.
+- Calculate the sum of the forecasted sales for the next six months.
+## Key takeaways
+The total Forecasted sales for next 6 months came out to be 630.69 millions.
 
